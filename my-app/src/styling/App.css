@@ -1,0 +1,14 @@
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  background-color: #333;
+}
+
+.navBar div {
+  margin: 10px;
+}
+
+.navBar a {
+  color: white;
+  text-decoration: none;
+}
